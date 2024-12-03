@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Balram Panda</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-## About my self 👨‍💻
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balram72&label=Profile%20views&color=0e75b6&style=flat" alt="balram72" /> </p>
-* I'm a Sr. Software Engineer.
-* Equipped with a **MacBook Pro 14** with the latest OS version
-* My Blogs : [**Medium**](https://medium.com/@bibhuti9)
-* LinkedIn : [**linkedin**](https://www.linkedin.com/in/bibhuti-swain/)
-* Projects: [**Projects**](https://bibhuti.vercel.app/portfolio)
+
 
 - 🌱 I'm a full stack software engineer
 
@@ -17,7 +13,7 @@
 - 📝 I regularly write articles on [https://bsdevelopers.blogspot.com](https://bsdevelopers.blogspot.com)
 
 - 📫 How to reach me **balrampanda72@gmail.com**
-## React Native Projects
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
