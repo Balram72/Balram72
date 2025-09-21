@@ -64,10 +64,8 @@
 
 ## Code Quality
 ```bash
-  * Husky
   * Prettier
   * Eslint
-  * Jest
 ```
 
 ## AI Toold to improve code
