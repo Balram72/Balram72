@@ -1,20 +1,6 @@
 ## About my self 👨‍💻
 
 * I'm a Sr. Software Engineer.
-* Equipped with a **MacBook Pro 14** with the latest OS version
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balram72&label=Profile%20views&color=0e75b6&style=flat" alt="balram72" /> </p>
-
-
-- 🌱 I'm a full stack software engineer
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/balrampanda](www.linkedin.com/in/balrampanda)
-
-- 📝 I regularly write articles on [https://bsdevelopers.blogspot.com](https://bsdevelopers.blogspot.com)
-
-- 📫 How to reach me **balrampanda72@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
