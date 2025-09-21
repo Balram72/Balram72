@@ -12,7 +12,7 @@
 ## Laravel  Projects
 
 ```bash
-  * Job Potal: Job Potal
+  * Job Potal
 ```
 
 ## Key Features of Laravel
