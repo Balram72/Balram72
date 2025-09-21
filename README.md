@@ -13,6 +13,7 @@
 
 ```bash
   * Job Potal
+  * E-commerce website
 ```
 
 ## Key Features of Laravel
@@ -35,6 +36,12 @@
 ## Php Projects:
 ```bash
   * Online Exam Portal
+```
+
+## React / Node Projects:
+```bash
+  * News Cms Project(Node,Ejs)
+  * Live streaming(React,Zegocloud)
 ```
 
 ## Programming Expertise:
