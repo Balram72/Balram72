@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Balram Panda</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## About my self 👨‍💻
+
+* I'm a Sr. Software Engineer.
+* Equipped with a **MacBook Pro 14** with the latest OS version
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balram72&label=Profile%20views&color=0e75b6&style=flat" alt="balram72" /> </p>
