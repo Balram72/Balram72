@@ -2,12 +2,12 @@
 
 * I'm a Sr. Software Engineer.
 
-## laravel  Projects
+## Laravel  Projects
 
 ```bash
   * Job Potal: Job Potal
 ```
-## Key Features of React Native Expo
+## Key Features of Laravel
 ```bash
   * MVC Architecture
   * Eloquent ORM
