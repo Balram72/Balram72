@@ -78,6 +78,9 @@
 ```
 
 
+| <a href="https://github.com/balram72/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=balram72&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Balram's github stats" /></a> | <a href="https://github.com/balram72/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balram72&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 
 <br />
