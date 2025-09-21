@@ -1,6 +1,6 @@
 ## About my self 👨‍💻
 
-* I'm a Sr. Software Engineer.
+* I'm a Jr. Software Engineer.
 
 
 
